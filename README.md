@@ -101,7 +101,8 @@ G F <BR>
 F H <BR>
 <hr>
 <h3>Sample Output</h3>
-![alt text](<Screenshot 2026-01-31 232014.png>)
+<img width="1919" height="1106" alt="Screenshot 2026-01-31 232108" src="https://github.com/user-attachments/assets/3c42c2cb-762c-439c-84de-a0de46dc13ab" />
+
 <h3>Sample Input</h3>
 <hr>
 5 5 <BR>
@@ -112,7 +113,8 @@ F H <BR>
 2 4 <BR>
 <hr>
 <h3>Sample Output</h3>
-![alt text](<Screenshot 2026-01-31 232108.png>)
+<img width="1916" height="1148" alt="Screenshot 2026-01-31 232014" src="https://github.com/user-attachments/assets/438e2511-0b39-4fe7-b087-dd5516f42cd6" />
+
 
 <h3>Result:</h3>
 <hr>
