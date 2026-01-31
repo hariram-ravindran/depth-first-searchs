@@ -101,7 +101,7 @@ G F <BR>
 F H <BR>
 <hr>
 <h3>Sample Output</h3>
-https://vscode.dev/github/hariram-ravindran/depth-first-searchs/blob/main/Screenshot%202026-01-31%20232108.png
+![alt text](<Screenshot 2026-01-31 232014.png>)
 <h3>Sample Input</h3>
 <hr>
 5 5 <BR>
@@ -112,7 +112,7 @@ https://vscode.dev/github/hariram-ravindran/depth-first-searchs/blob/main/Screen
 2 4 <BR>
 <hr>
 <h3>Sample Output</h3>
-![alt text](https://vscode.dev/github/hariram-ravindran/depth-first-searchs/blob/main/Screenshot%202026-01-31%20232014.png)
+![alt text](<Screenshot 2026-01-31 232108.png>)
 
 <h3>Result:</h3>
 <hr>
